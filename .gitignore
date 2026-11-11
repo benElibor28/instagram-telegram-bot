@@ -1,0 +1,18 @@
+# Variables de entorno
+.env
+
+# Archivos extraídos por el bot
+extracted_files/
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
